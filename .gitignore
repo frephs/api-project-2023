@@ -1,0 +1,15 @@
+Resources
+# Tests
+strutture_dati.c
+algoritmi.c
+backups.c
+a.out
+main
+test
+callgrind.out.*
+.vscode
+*.out
+*.o
+test.in
+makefile
+test_gen_2023
