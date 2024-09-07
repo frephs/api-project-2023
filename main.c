@@ -2,7 +2,6 @@
 /*                                LIBRARIES                               */
 /*==============================================================================*/
 
-//TODO WARN check if permitted
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -125,6 +124,7 @@ void carRemoveAll_(station_t* s);
 
 
 //? I/O HANDLING
+//TODO Add input errors handling
 // for code transparency i separated the actual functions that deal with input parsing
 //* INPUT PARSING STATIONS
 station_t* addStation(station_t* t);
