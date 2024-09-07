@@ -11,5 +11,5 @@ callgrind.out.*
 *.out
 *.o
 test.in
-makefile
+
 test_gen_2023
