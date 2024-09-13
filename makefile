@@ -2,11 +2,11 @@ MAKEFLAGS += -s
 
 # Basic build rule
 build:
-	gcc main.c -o main -Wall -Werror -std=gnu11 -lm -O2 -g3
+	$(CC) main.c -o main -Wall -Werror -std=gnu11 -lm -O2 -g3
 
 # Build with sanitizer (same as build for now)
 buildsan:
-	gcc main.c -o main -Wall -Werror -std=gnu11 -lm -O2 -g3
+	$(CC) main.c -o main -Wall -Werror -std=gnu11 -lm -O2 -g3
 
 # Run test with input file based on TEST variable
 test:
