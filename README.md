@@ -9,7 +9,8 @@ The test generator is not provided according to course policy. The open tests ar
 
 
 ## How to run/compile
-The provided Makefile provides several targets to build, test, and debug the program. Here's a brief overview of how to use it:
+>[!TIP]
+> The provided Makefile provides several targets to build, test, and debug the program. Here's a brief overview of how to use it:
 
 ### Building and Running Tests
 
