@@ -1,7 +1,7 @@
 # API's Project - Academic Year 2022/2023
 This is the solution I submitted for the final project of the course of Theoretical Computer Science and Algorithms (Algoritmi e Principi dell'Informatica - API for short) at [Politecnico di Milano](polimi.it).   
 
-You can find the assignment [here](assignment.pdf) and my solution [here](main.c). 
+You can find the assignment [here](Assignment.pdf) and my solution [here](main.c). 
 
 ## Tests
 
